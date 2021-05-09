@@ -1,4 +1,4 @@
-var app = require('../main/app')
+var app = require('./main/app')
 var debug = require('debug')('server:server')
 var http = require('http')
 
