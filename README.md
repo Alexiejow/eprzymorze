@@ -4,10 +4,10 @@ E-petitions platform for a local municipality in Gdansk, Poland. Full-stack PERN
 Website active, but back-end currently down.  
 http://gifted-shaw-f3346e.netlify.app 
 
-Research blog
+Research blog (inactive, lost)
 https://aleksyvideo.com/dmproject-researchblog
 
-Interactive mock-up
+Interactive mock-up (live)
 https://adobe.ly/3bwaWAW
   
 ![image](https://user-images.githubusercontent.com/32062967/222378349-7f78f8ac-5e93-4b53-ac57-bf026fa37894.png)
